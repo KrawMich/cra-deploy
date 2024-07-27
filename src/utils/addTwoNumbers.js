@@ -1,0 +1,1 @@
+export const addTwoNumbers = (a,b)=>a*1+b*1;
